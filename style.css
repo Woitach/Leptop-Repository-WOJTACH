@@ -1,23 +1,29 @@
 .headtable{
-    background-color: steelblue;
+    background-color: #333333;
     border-width: 0px;
     text-align: center;
     font-size: 50px;
     color:White;
+    margin:0;   
 }
 .bodytable1{
-    background-color: silver;
-    border-width: 0px;
+    background-image: linear-gradient(to right, blue , pink);
+    border-width: 0;
     text-align: center;
     font-size: 25px;
     color:black;
-    width: 80%;
 }
-.bodytable2{
-    background-color: silver;
-    border-width: 0px;
-    text-align: center;
-    font-size: 15px;
-    color:green;
-    width: 20%;
+body{
+    margin:0;
+}
+.title{
+    font-size: 25px;
+    font-family: Tahoma;
+}
+.shadow{
+    background-image: linear-gradient(to right, white,black,white);
+    height: 1px;
+}
+.tab2{
+    width: 30%;
 }
