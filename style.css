@@ -27,3 +27,9 @@ body{
 .tab2{
     width: 30%;
 }
+.but{
+    background-color: #333333;
+    color:white;
+    height: 100%;
+    width: 30%;
+}
