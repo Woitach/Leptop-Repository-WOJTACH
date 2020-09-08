@@ -1,0 +1,23 @@
+.headtable{
+    background-color: steelblue;
+    border-width: 0px;
+    text-align: center;
+    font-size: 50px;
+    color:White;
+}
+.bodytable1{
+    background-color: silver;
+    border-width: 0px;
+    text-align: center;
+    font-size: 25px;
+    color:black;
+    width: 80%;
+}
+.bodytable2{
+    background-color: silver;
+    border-width: 0px;
+    text-align: center;
+    font-size: 15px;
+    color:green;
+    width: 20%;
+}
